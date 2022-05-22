@@ -26,5 +26,8 @@
 <img src="cut/image.gif" alt="img.png" style="zoom:50%;" />
 
 #### 视频
+
+> 视频由于较大未能上传至 github，可在 `src/main/res/raw/` 下导入任意 mp4 文件即可播放
+
 <img src="cut/video.gif" alt="img.png" style="zoom:50%;" />
 
